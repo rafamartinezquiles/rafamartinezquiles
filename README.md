@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Animated chat card (see chat.svg below) -->
-  <img src="https://raw.githubusercontent.com/rafamartinezquiles/rafamartinezquiles/main/chat.svg?v=1" 
+  <img src="https://raw.githubusercontent.com/rafamartinezquiles/rafamartinezquiles/main/chat.svg" 
        alt="Rafael's Profile Card" width="520" />
 </div>
 
