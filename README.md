@@ -98,8 +98,8 @@
 <table align="center">
   <tr>
     <td>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=rafamartinezquiles&theme=github-dark&hide_border=true"
+      <img
+        src="https://streak-stats.demolab.com?user=rafamartinezquiles&theme=github-dark&hide_border=true"
         height="170" alt="streak stats"/>
     </td>
     <td>
