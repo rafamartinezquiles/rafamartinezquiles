@@ -1,4 +1,13 @@
 <div align="center">
+  <div style="
+    background-color:#0D1117;
+    padding:40px;
+    border-radius:16px;
+    border:1px solid #30363d;
+    max-width:900px;
+  ">
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/rafamartinezquiles/rafamartinezquiles/main/chat.svg" 
        alt="Rafael's Profile Card" width="520" />
 </div>
@@ -117,4 +126,5 @@ From **cutting underwriting time from ~90 days to <5 minutes** to **reducing CV 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true" 
     alt="Top languages" />
 
+  </div>
 </div>
