@@ -19,31 +19,43 @@
   <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true">
 </p>
 
-<hr>
-<br>
-
-<!-- Profile Stats (Views, Followers) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafamartinezquiles" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/rafamartinezquiles?style=social" />
-</p>
-
-<br>
-
-<h1 align="center">Rafael Martínez Quiles</h1>
-
-<p align="center">
-  <strong>Software &amp; AI Engineer</strong> · Computer Vision · Real-Time ML &amp; Data Systems
-</p>
+> Adapted with inspiration from [haiku-readme](https://github.com/chinmay29hub/haiku-readme)
 
 ---
 
 <h3 align="center">About me</h3>
 
-- I build **real-time computer vision** systems (YOLOv8/9, OCR, tracking).  
-- I ship **ML decision engines** for credit &amp; risk with explainability (SHAP, scorecards).  
-- I design **data platforms** with Python / SQL / dbt / Airflow on **AWS · GCP · Azure**.
+<p align="center">
+  I build real-time ML and computer vision systems, from credit decision engines to production-grade data platforms.
+</p>
+
+<table align="center">
+  <tr>
+    <th>Focus</th>
+    <th>What I Did</th>
+    <th>Impact</th>
+  </tr>
+  <tr>
+    <td><strong>ML Decision Engines</strong></td>
+    <td>Designed and deployed credit risk pipelines with explainability (SHAP, scorecards).</td>
+    <td><strong>Reduced loan decision times</strong> from ~90 days to <strong>&lt; 5 minutes</strong>.</td>
+  </tr>
+  <tr>
+    <td><strong>Computer Vision</strong></td>
+    <td>Built YOLO-based systems (v8/v9), OCR and tracking for real-time applications.</td>
+    <td>Reached <strong>≈95% accuracy</strong> and improved latency by <strong>20%+</strong> in production.</td>
+  </tr>
+  <tr>
+    <td><strong>Innovation & Hackathons</strong></td>
+    <td>Competed on applied AI solutions and rapid prototyping.</td>
+    <td><strong>2nd place</strong> in a <strong>Google hackathon</strong>.</td>
+  </tr>
+  <tr>
+    <td><strong>Data Platforms</strong></td>
+    <td>Designed data stacks with Python, SQL, dbt and Airflow on cloud.</td>
+    <td>Delivered reliable pipelines on <strong>AWS · GCP · Azure</strong>.</td>
+  </tr>
+</table>
 
 ---
 
@@ -80,6 +92,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <h3 align="center">GitHub Stats</h3>
@@ -103,3 +116,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Profile Stats (Views, Followers) AT THE END -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafamartinezquiles" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/rafamartinezquiles?style=social" />
+</p>
