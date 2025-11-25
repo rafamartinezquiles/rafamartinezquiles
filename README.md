@@ -2,15 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
-
-<!-- Haiku Banner -->
-<p align="center">
-  <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true">
-</p>
-
-> Adapted with inspiration from [haiku-readme](https://github.com/chinmay29hub/haiku-readme)
-
-<hr>
 <br>
 
 <!-- Main Title With Wave GIF -->
@@ -24,11 +15,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=200&center=true&vCenter=true&width=550&height=100&lines=Software+%26+AI+Engineer;Computer+Vision+Specialist;Real-Time+ML+Systems+Builder;ML+Decision+Engines+%7C+Explainability;Data+Platforms+on+AWS+%7C+GCP+%7C+Azure;Always+Learning%2C+Always+Building">
 </p>
 
-<!-- Professional GIF -->
+<!-- Haiku Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt6NzJxMHIyZnZ6cWl6NzZlcGx1bXdzNWc4MmZiMm51cWhja2JwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8fLzZ9JpA3cCw/giphy.gif" width="600" />
+  <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true">
 </p>
 
+> Adapted with inspiration from [haiku-readme](https://github.com/chinmay29hub/haiku-readme)
 
 <hr>
 <br>
