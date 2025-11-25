@@ -19,8 +19,6 @@
   <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true">
 </p>
 
-> Adapted with inspiration from [haiku-readme](https://github.com/chinmay29hub/haiku-readme)
-
 ---
 
 <h3 align="center">About me</h3>
