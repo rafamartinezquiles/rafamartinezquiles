@@ -31,25 +31,25 @@
       animation-fill-mode: forwards;
     }
 
-    @keyframes typing-fade { 
-      0%, 100% { opacity: 0.3; } 
-      50% { opacity: 1; } 
+    @keyframes typing-fade {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
     }
 
     .typing-dot { animation: typing-fade 1.1s infinite; }
     .typing-dot:nth-child(2) { animation-delay: 0.18s; }
     .typing-dot:nth-child(3) { animation-delay: 0.36s; }
 
-    @keyframes typing-lifecycle { 
-      0% { opacity: 1; } 
-      99% { opacity: 1; } 
-      100% { opacity: 0; } 
+    @keyframes typing-lifecycle {
+      0% { opacity: 1; }
+      99% { opacity: 1; }
+      100% { opacity: 0; }
     }
 
-    @keyframes reveal-and-stay { 
-      0% { opacity: 0; transform: translateY(10px); } 
-      10% { opacity: 1; transform: translateY(0); } 
-      100% { opacity: 1; transform: translateY(0); } 
+    @keyframes reveal-and-stay {
+      0% { opacity: 0; transform: translateY(10px); }
+      10% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 1; transform: translateY(0); }
     }
 
     /* ANIMATION SEQUENCE */
@@ -66,6 +66,7 @@
     .msg-4    { animation: reveal-and-stay 99s 7.6s forwards; }
   </style>
 
+  <!-- Bubble 1 -->
   <g class="typing typing-1 shadow">
     <rect x="16" y="18" width="70" height="40" rx="20" class="bubble"/>
     <circle cx="32" cy="38" r="4" class="typing-dot"/>
@@ -78,6 +79,7 @@
     <text x="32" y="42" class="me-text">hey, I’m Rafael 👋</text>
   </g>
 
+  <!-- Bubble 2 -->
   <g class="typing typing-2 shadow">
     <rect x="16" y="70" width="70" height="40" rx="20" class="bubble"/>
     <circle cx="32" cy="90" r="4" class="typing-dot"/>
@@ -86,4 +88,30 @@
   </g>
 
   <g class="msg msg-2 shadow">
-    <rect x="16" y="64" width="330" height="60" rx="20" class="bubble-accent"/
+    <rect x="16" y="64" width="330" height="60" rx="20" class="bubble-accent"/>
+    <text x="32" y="88" class="accent-text">software &amp; AI engineer</text>
+    <text x="32" y="108" class="accent-text">real-time computer vision • ML systems</text>
+  </g>
+
+  <!-- Bubble 3 -->
+  <g class="typing typing-3 shadow">
+    <rect x="16" y="126" width="70" height="40" rx="20" class="bubble"/>
+    <circle cx="32" cy="146" r="4" class="typing-dot"/>
+    <circle cx="44" cy="146" r="4" class="typing-dot"/>
+    <circle cx="56" cy="146" r="4" class="typing-dot"/>
+  </g>
+
+  <g class="msg msg-3 shadow">
+    <rect x="260" y="18" width="240" height="60" rx="20" class="bubble"/>
+    <text x="276" y="42">⚡ head of data @ Agxes</text>
+    <text x="276" y="62">90d → &lt;5min loan decisions</text>
+  </g>
+
+  <!-- Bubble 4 -->
+  <g class="msg msg-4 shadow">
+    <rect x="260" y="96" width="240" height="70" rx="20" class="bubble"/>
+    <text x="276" y="120">🥈 AI Hack Night @ Google</text>
+    <text x="276" y="140">📡 IEEE-published CV research</text>
+    <text x="276" y="160">let’s build something cool 🚀</text>
+  </g>
+</svg>
