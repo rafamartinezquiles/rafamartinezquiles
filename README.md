@@ -1,54 +1,73 @@
-# Rafael Martínez Quiles  
-### AI Engineer & Data Systems Specialist — Computer Vision • Real-Time ML • Scalable Pipelines
+# Rafael Martinez 
+### Software Engineer & AI Engineer — Real-Time Computer Vision • ML Systems • Scalable Data Pipelines
 
-I build **real-time computer vision systems** and **automated data pipelines** that convert raw video, imagery, and fragmented data into fast, reliable decision engines.
+I’m Rafael, a Software/AI Engineer building **real-time machine learning systems**, **high-performance computer vision pipelines**, and **production-ready data infrastructures** that power critical decision engines across organizations.
 
-My work combines **deep learning**, **geospatial + temporal analysis**, and **production-grade data engineering** across AWS/GCP/Azure.
-
----
-
-## 🧠 Core Focus Areas
-- **Computer Vision:** real-time detection/tracking (YOLOv8/9), OCR, gesture recognition, spatial analytics, Voronoi control maps, radar-style projections.  
-- **ML Engineering:** scorecards, forecasting, SHAP explainability, low-latency inference, cloud deployment.  
-- **Data Engineering:** dbt, Airflow, Python/SQL, warehouse modeling, CI/CD, SLAs/SLOs, governed ETL/ELT.  
-- **Real-Time Systems:** decision engines that reduce cycles from months → minutes.
+My work merges **deep learning**, **systems engineering**, and **cloud-native architecture**—designing solutions that are fast, reliable, and built for scale.
 
 ---
 
-## 🚀 Selected Work
-
-### **Tactical Soccer Computer Vision System**
-Automated analysis from broadcast footage:  
-player/ball detection, jersey-based clustering, top-down pitch projections, Voronoi space control, trajectory flow maps.  
-*A full CV pipeline for scalable sports intelligence.*
-
-### **Gesture-Controlled Real-Time Game**
-MediaPipe + OpenCV → 21-landmark hand tracking, fingertip-based slicing mechanics, real-time HCI pipeline.  
-*A demo of touchless interfaces using CV and lightweight ML.*
-
-### **AutoDataAgent (Co-Creator)**
-End-to-end automated analytics: ingestion → cleaning → code generation → insights → reporting.  
-*A system designed to compress data workflows from hours to minutes.*
+## ⚙️ Core Engineering Areas
+- **Software Engineering:** Python, distributed systems, containerized microservices, low-latency inference, CICD.  
+- **AI / ML Engineering:** model training + deployment (PyTorch/TensorFlow), scorecards, forecasting, SHAP, XAI pipelines.  
+- **Computer Vision:** YOLO, OCR, tracking, geometric projections, multimodal understanding, event detection.  
+- **Data Engineering:** dbt, Airflow, SQL, warehouse modeling, governed ETL/ELT at scale (AWS/GCP/Azure).  
+- **Cloud Architecture:** S3/Lambda/Glue, Snowflake/BigQuery/Redshift, Docker/Kubernetes, GitHub Actions.
 
 ---
 
-## 🏆 Highlights  
-- 🥈 **2nd Place — AI Hack Night @ Google**  
-- 🎤 Featured on **Voices of Hult Podcast**  
-- 📰 Interviewed by **GMAC / BusinessBecause**  
-- 📡 Research published in **IEEE Transactions on Broadcasting** (YOLOv8 OCR optimization)  
-- 🏗 Founding Engineer of **n-aible (AI Society)** — led 400-attendee hackathon & partnerships  
+## 🚀 Key Impact
+- **90 days → <5 minutes**: built a real-time AI decisioning engine enabling 200× throughput & +50% approvals.  
+- **95% latency reduction**: optimized CV pipelines (YOLO OCR) from 1,161s → 54s for 5G/6G multimedia services.  
+- **98% manual work eliminated**: automated governed ETL/ELT with data contracts, lineage, SLAs/SLOs.  
+- **+25% map accuracy**: geospatial systems with automated QC, workflows, and model-driven updates.
 
 ---
 
-## ⚙️ Tech Stack
-**Python • SQL • PyTorch • TensorFlow • YOLOv8/9 • OpenCV • MediaPipe**  
-**AWS • GCP • Azure • Airflow • dbt • Snowflake • BigQuery • Redshift**  
-**Docker • Kubernetes • GitHub Actions • Great Expectations • Tableau/Power BI/Looker**
+## 🧠 Representative Engineering Work
+
+### **Real-Time CV Tactical Soccer System**  
+Player/ball detection, homography, tracking, Voronoi maps, spatiotemporal flow analysis.  
+**Tech:** PyTorch, Transformers, OpenCV, Supervision, Roboflow Inference.
+
+### **Real-Time Gesture Interface**  
+Webcam → MediaPipe → fingertip trajectory → collision engine.  
+**Tech:** OpenCV, NumPy, real-time event loop, custom physics.
+
+### **Sign Language Recognition Engine**  
+End-to-end gesture classification pipeline with CUDA-accelerated inference.  
+**Tech:** PyTorch, TensorFlow, OpenCV, custom datasets.
+
+### **Multimodal Knowledge Graph & RAG**  
+Unified text, image, audio & video graph query system.  
+**Tech:** Neo4j, LangChain, LlamaIndex, Whisper, CLIP, LLaVA.
+
+### **AutoDataAgent (Co-Creator)**  
+LLM-driven software pipeline: ingestion → cleaning → code-gen → debugging → report generation.  
+**Tech:** Python, OpenAI APIs, agents, workflow orchestration.
 
 ---
 
-## 📬 Connect
+## 🏆 Recognition
+- **2nd Place — AI Hack Night at Google (Sunnyvale)**  
+- **IEEE Transactions on Broadcasting — Published Research (YOLOv8 Optimization)**  
+- **VP & Founding Engineer — n-aible (AI Society)** | Organized a 400-person AI Hackathon  
+- **Featured By:** GMAC / BusinessBecause • Voices of Hult Podcast  
+- **Top of the Cohort:** Data Science & Predictive Modeling (Hult)
+
+---
+
+## 🧩 Tech Stack
+**Languages:** Python, SQL, R  
+**ML/CV:** PyTorch, TensorFlow, YOLOv8/9, OpenCV, MediaPipe, Transformers  
+**Systems:** Docker, Kubernetes, GitHub Actions, Linux, CI/CD  
+**Data:** dbt, Airflow, Snowflake, BigQuery, Redshift  
+**Cloud:** AWS (S3/Lambda/Glue), GCP, Azure  
+**Other:** Distributed Systems, Geospatial Analytics, Feature Stores, MLOps
+
+---
+
+## 🔗 Connect
 **LinkedIn:** linkedin.com/in/rafael-martinez-quiles  
 **X:** @rafamq_  
-**ORCID:** 0009-0007-2298-4417
+**GitHub:** github.com/rafamartinezquiles
