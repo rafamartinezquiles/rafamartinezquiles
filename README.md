@@ -10,3 +10,27 @@ I care deeply about clean data foundations, fast iteration loops, reliable deplo
 
 ---
 
+## 🚀 What I Do
+
+### **Computer Vision & Real-Time AI**
+- Real-time detection, tracking, and OCR (Ultralytics, OpenCV, TensorFlow, PyTorch)
+- Multimodal interpretability & XAI for object detection  
+- Spatial analytics, Voronoi control maps, player tracking, radar tactical visualizations  
+- Gesture recognition & touchless interfaces using MediaPipe + OpenCV  
+- Multimodal knowledge graphs & RAG pipelines (text + image + audio + video)
+
+### **Data Engineering & ML Systems**
+- Automated ETL/ELT (Python • SQL • dbt • Airflow)
+- Cloud: **AWS**, **GCP**, **Azure**
+- Real-time decisioning systems for credit, underwriting & scoring
+- Data modeling (star/snowflake), warehouse orchestration, quality (Great Expectations), CI/CD
+- ML scorecards, feature engineering, classification/forecasting, SHAP explainability
+
+### **Business & Analytics**
+- Executive dashboards (Tableau, Power BI, Looker)
+- Experimentation, forecasting, product analytics
+- Bridging technical teams, business units, and research environments
+
+---
+
+
