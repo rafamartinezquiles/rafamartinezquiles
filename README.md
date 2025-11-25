@@ -1,73 +1,115 @@
-# Rafael Martinez 
-### Software Engineer & AI Engineer — Real-Time Computer Vision • ML Systems • Scalable Data Pipelines
+<div align="center">
+  <!-- Animated chat card (see chat.svg below) -->
+  <img src="https://raw.githubusercontent.com/rafamartinezquiles/rafamartinezquiles/main/chat.svg?v=1" 
+       alt="Rafael's Profile Card" width="520" />
+</div>
 
-I’m Rafael, a Software/AI Engineer building **real-time machine learning systems**, **high-performance computer vision pipelines**, and **production-ready data infrastructures** that power critical decision engines across organizations.
+<br>
 
-My work merges **deep learning**, **systems engineering**, and **cloud-native architecture**—designing solutions that are fast, reliable, and built for scale.
+<div align="center">
+
+  <!-- Contact / social -->
+  <a href="https://www.linkedin.com/in/rafael-martinez-quiles" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Mart%C3%ADnez%20Quiles-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rafa.martinezquiles@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE%20Author-Computer%20Vision-8A2BE2?style=for-the-badge&logo=ieee" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <!-- Core stack icons -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="38" height="38"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="38" height="38"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="38" height="38"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="38" height="38"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="38" height="38"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="38" height="38"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="38" height="38"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="38" height="38"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="38" height="38"/>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="38" height="38"/>
+  </a>
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="38" height="38"/>
+  </a>
+
+</div>
 
 ---
 
-## ⚙️ Core Engineering Areas
-- **Software Engineering:** Python, distributed systems, containerized microservices, low-latency inference, CICD.  
-- **AI / ML Engineering:** model training + deployment (PyTorch/TensorFlow), scorecards, forecasting, SHAP, XAI pipelines.  
-- **Computer Vision:** YOLO, OCR, tracking, geometric projections, multimodal understanding, event detection.  
-- **Data Engineering:** dbt, Airflow, SQL, warehouse modeling, governed ETL/ELT at scale (AWS/GCP/Azure).  
-- **Cloud Architecture:** S3/Lambda/Glue, Snowflake/BigQuery/Redshift, Docker/Kubernetes, GitHub Actions.
+### 👨‍💻 About me
+
+I’m **Rafael Martínez Quiles**, a Software & AI Engineer focused on:
+
+- **Real-time computer vision** (YOLOv8/9, OCR, tracking, geometric projections)  
+- **ML systems** for credit, risk, and decisioning (scorecards, explainability, SHAP)  
+- **Production-grade data platforms** (Python / SQL / dbt / Airflow on AWS–GCP–Azure)
+
+From **cutting underwriting time from ~90 days to <5 minutes** to **reducing CV latency by 95%** for 5G/6G multimedia services, I care about systems that are **fast, robust, and actually ship**.
 
 ---
 
-## 🚀 Key Impact
-- **90 days → <5 minutes**: built a real-time AI decisioning engine enabling 200× throughput & +50% approvals.  
-- **95% latency reduction**: optimized CV pipelines (YOLO OCR) from 1,161s → 54s for 5G/6G multimedia services.  
-- **98% manual work eliminated**: automated governed ETL/ELT with data contracts, lineage, SLAs/SLOs.  
-- **+25% map accuracy**: geospatial systems with automated QC, workflows, and model-driven updates.
+### 🚀 A few things I’ve built
+
+- **Tactical Soccer CV Engine** – detects, tracks, and projects players/ball onto a radar pitch view with Voronoi control maps and trajectory analysis.  
+- **Real-Time Gesture Interfaces** – webcam-based hand tracking for fully touchless games and sign-language pipelines.  
+- **Multimodal Knowledge Graph & RAG** – Neo4j + LangChain + LLaVA/CLIP/Whisper for text–image–audio–video retrieval and reasoning.  
+- **AutoDataAgent** – LLM-driven framework that automates end-to-end analytics (ingestion → code-gen → debugging → reporting).
 
 ---
 
-## 🧠 Representative Engineering Work
+### 🏆 Highlights
 
-### **Real-Time CV Tactical Soccer System**  
-Player/ball detection, homography, tracking, Voronoi maps, spatiotemporal flow analysis.  
-**Tech:** PyTorch, Transformers, OpenCV, Supervision, Roboflow Inference.
-
-### **Real-Time Gesture Interface**  
-Webcam → MediaPipe → fingertip trajectory → collision engine.  
-**Tech:** OpenCV, NumPy, real-time event loop, custom physics.
-
-### **Sign Language Recognition Engine**  
-End-to-end gesture classification pipeline with CUDA-accelerated inference.  
-**Tech:** PyTorch, TensorFlow, OpenCV, custom datasets.
-
-### **Multimodal Knowledge Graph & RAG**  
-Unified text, image, audio & video graph query system.  
-**Tech:** Neo4j, LangChain, LlamaIndex, Whisper, CLIP, LLaVA.
-
-### **AutoDataAgent (Co-Creator)**  
-LLM-driven software pipeline: ingestion → cleaning → code-gen → debugging → report generation.  
-**Tech:** Python, OpenAI APIs, agents, workflow orchestration.
+- 🥈 **2nd place – AI Hack Night @ Google (Sunnyvale)**  
+- 📡 **IEEE Transactions on Broadcasting** – YOLOv8-based bib-recognition optimization  
+- 🧠 **Head of Data Analytics @ Agxes** – real-time AI decisioning for agrifinance  
+- 🏗 **VP & Founding Engineer — n-aible (AI Society)** – led a 400-person “AI for Good” hackathon  
 
 ---
 
-## 🏆 Recognition
-- **2nd Place — AI Hack Night at Google (Sunnyvale)**  
-- **IEEE Transactions on Broadcasting — Published Research (YOLOv8 Optimization)**  
-- **VP & Founding Engineer — n-aible (AI Society)** | Organized a 400-person AI Hackathon  
-- **Featured By:** GMAC / BusinessBecause • Voices of Hult Podcast  
-- **Top of the Cohort:** Data Science & Predictive Modeling (Hult)
+<div align="center">
 
----
+  <!-- GitHub stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafamartinezquiles&background=0D1117&hide_border=true&stroke=8b949e&ring=4FBC8A&fire=FFBF00&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" 
+    alt="GitHub streak" />
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="GitHub stats" />
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top languages" />
 
-## 🧩 Tech Stack
-**Languages:** Python, SQL, R, Typescript, React  
-**ML/CV:** PyTorch, TensorFlow, Ultralytics, OpenCV, MediaPipe, Transformers  
-**Systems:** Docker, Kubernetes, GitHub Actions, Linux, CI/CD  
-**Data:** dbt, Airflow, Snowflake, BigQuery, Redshift  
-**Cloud:** AWS (S3/Lambda/Glue), GCP, Azure  
-**Other:** Distributed Systems, Geospatial Analytics, Feature Stores, MLOps
-
----
-
-## 🔗 Connect
-**LinkedIn:** linkedin.com/in/rafael-martinez-quiles  
-**X:** @rafamq_  
-**GitHub:** github.com/rafamartinezquiles
+</div>
