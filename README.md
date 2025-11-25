@@ -26,7 +26,7 @@
 
 <!-- Professional GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt6NzJxMHIyZnZ6cWl6NzZlcGx1bXdzNWc4MmZiMm51cWhja2JwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8fLzZ9JpA3cCw/giphy.gif" width="600" />
 </p>
 
 
