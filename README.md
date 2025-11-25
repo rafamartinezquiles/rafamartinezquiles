@@ -104,12 +104,12 @@
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
         height="170" alt="github stats"/>
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200"
         height="170" alt="top langs"/>
     </td>
   </tr>
