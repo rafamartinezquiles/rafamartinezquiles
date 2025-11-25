@@ -89,7 +89,7 @@
 
   <g class="msg msg-2 shadow">
     <rect x="16" y="64" width="330" height="60" rx="20" class="bubble-accent"/>
-    <text x="32" y="88" class="accent-text">software & AI engineer</text>
+    <text x="32" y="88" class="accent-text">software &amp; AI engineer</text>
     <text x="32" y="108" class="accent-text">real-time computer vision • ML systems</text>
   </g>
 
