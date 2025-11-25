@@ -41,10 +41,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-martinez-quiles">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Mart%C3%ADnez%20Quiles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:rafa.martinezquiles@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
