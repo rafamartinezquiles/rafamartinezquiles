@@ -44,16 +44,21 @@
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img
+<!-- GitHub Stats Row -->
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <!-- Streak -->
+  <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=rafamartinezquiles&theme=github-dark&hide_border=true"
-    alt="GitHub streak" />
-  <br/><br/>
+    height="170" alt="streak stats"/>
+
+  <!-- Main Stats -->
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub stats" />
-  <br/><br/>
+    height="170" alt="github stats"/>
+
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top languages" />
-</p>
+    height="170" alt="top langs"/>
+</div>
