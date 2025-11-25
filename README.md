@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">🧠 About me</h3>
+<h3 align="center">About me</h3>
 
 - I build **real-time computer vision** systems (YOLOv8/9, OCR, tracking).  
 - I ship **ML decision engines** for credit &amp; risk with explainability (SHAP, scorecards).  
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center">🛠 Tech I Work With</h3>
+<h3 align="center">Tech I Work With</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-martinez-quiles">
@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <table align="center">
   <tr>
