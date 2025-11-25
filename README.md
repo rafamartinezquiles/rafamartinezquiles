@@ -1,17 +1,16 @@
 <!-- Waving Banner -->
-<p align="center">
+<p align="center" style="margin-bottom: -35px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
-<br>
 
 <!-- Main Title With Wave GIF -->
-<h1 align="center">
+<h1 align="center" style="margin-top: 10px; margin-bottom: 0;">
   Hello, I'm Rafael Martínez Quiles
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
 </h1>
 
 <!-- Typing Animation -->
-<p align="center">
+<p align="center" style="margin-top: 5px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=200&center=true&vCenter=true&width=550&height=100&lines=Software+%26+AI+Engineer;Computer+Vision+Specialist;Real-Time+ML+Systems+Builder;ML+Decision+Engines+%7C+Explainability;Data+Platforms+on+AWS+%7C+GCP+%7C+Azure;Always+Learning%2C+Always+Building">
 </p>
 
