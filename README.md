@@ -99,8 +99,8 @@
   <tr>
     <td>
       <img
-        src="https://streak-stats.demolab.com?user=rafamartinezquiles&theme=github-dark&hide_border=true"
-        height="170" alt="streak stats"/>
+        src="https://git-hub-streak-stats.vercel.app?user=rafamartinezquiles&theme=github-dark&hide_border=true"
+        height="170" alt="GitHub Streak"/>
     </td>
     <td>
       <img
