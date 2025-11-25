@@ -53,7 +53,7 @@
   <tr>
     <td><strong>Data Platforms</strong></td>
     <td>Designed data stacks with Python, SQL, dbt and Airflow on cloud.</td>
-    <td>Delivered reliable pipelines on <strong>AWS · GCP · Azure</strong>.</td>
+    <td>Delivered reliable pipelines on <strong>AWS, GCP & Azure</strong>.</td>
   </tr>
 </table>
 
