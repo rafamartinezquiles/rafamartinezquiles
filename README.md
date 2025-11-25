@@ -58,8 +58,8 @@ LLM-driven software pipeline: ingestion → cleaning → code-gen → debugging 
 ---
 
 ## 🧩 Tech Stack
-**Languages:** Python, SQL, R  
-**ML/CV:** PyTorch, TensorFlow, YOLOv8/9, OpenCV, MediaPipe, Transformers  
+**Languages:** Python, SQL, R, Typescript, React  
+**ML/CV:** PyTorch, TensorFlow, Ultralytics, OpenCV, MediaPipe, Transformers  
 **Systems:** Docker, Kubernetes, GitHub Actions, Linux, CI/CD  
 **Data:** dbt, Airflow, Snowflake, BigQuery, Redshift  
 **Cloud:** AWS (S3/Lambda/Glue), GCP, Azure  
