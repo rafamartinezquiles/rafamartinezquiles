@@ -109,7 +109,7 @@
     </td>
     <td>
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook"
         height="170" alt="top langs"/>
     </td>
   </tr>
