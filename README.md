@@ -99,11 +99,6 @@
   <tr>
     <td>
       <img
-        src="https://git-hub-streak-stats.vercel.app?user=rafamartinezquiles&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        height="170" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
         height="170" alt="github stats"/>
     </td>
