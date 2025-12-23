@@ -95,25 +95,16 @@
 
 <h3 align="center">GitHub Stats</h3>
 
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook) |
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rafamartinezquiles&theme=github-dark&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook"
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="https://streak-stats.demolab.com?user=rafamartinezquiles&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
 
 ---
 
