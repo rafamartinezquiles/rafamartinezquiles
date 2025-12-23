@@ -99,7 +99,7 @@
   <tr>
     <td align="center" width="33%">
       <img
-        src="https://streak-stats.demolab.com/?user=rafamartinezquiles&theme=github-dark&hide_border=true"
+        src="https://streak-stats.demolab.com/?user=rafamartinezquiles&amp;theme=github-dark&amp;hide_border=true"
         height="170"
         alt="GitHub Streak"
       />
@@ -107,7 +107,7 @@
 
     <td align="center" width="33%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
         height="170"
         alt="GitHub Stats"
       />
@@ -115,7 +115,7 @@
 
     <td align="center" width="33%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;hide=Jupyter%20Notebook"
         height="170"
         alt="Top Languages"
       />
