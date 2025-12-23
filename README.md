@@ -95,16 +95,25 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook) |
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafamartinezquiles&theme=github-dark&hide_border=true" />
-</p>
-
----
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://git-hub-streak-stats.vercel.app?user=rafamartinezquiles&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+        height="170" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
+        height="170" alt="github stats"/>
+    </td>
+    <td>
+      <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook"
+        height="170" alt="top langs"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -115,4 +124,4 @@
   <img src="https://img.shields.io/github/followers/rafamartinezquiles?style=social" />
 </p>
 
-<!-- STATS: 2025-12-23T01:46:19Z -->
+<!-- STATS: 2025-12-15T01:49:24Z -->
