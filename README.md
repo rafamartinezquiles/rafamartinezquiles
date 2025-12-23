@@ -97,20 +97,28 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center" width="33%">
       <img
-        src="https://git-hub-streak-stats.vercel.app?user=rafamartinezquiles&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        height="170" alt="GitHub Streak"/>
+        src="https://streak-stats.demolab.com?user=rafamartinezquiles&theme=github-dark&hide_border=true"
+        height="170"
+        alt="GitHub Streak"
+      />
     </td>
-    <td>
+
+    <td align="center" width="33%">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
-        height="170" alt="github stats"/>
+        src="https://github-readme-stats.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+        height="170"
+        alt="GitHub Stats"
+      />
     </td>
-    <td>
+
+    <td align="center" width="33%">
       <img
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook"
-        height="170" alt="top langs"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook"
+        height="170"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
