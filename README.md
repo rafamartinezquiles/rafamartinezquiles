@@ -1,122 +1,118 @@
-<!-- Waving Banner --> 
-<p align="center" style="margin-bottom: -35px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-</p>
-
-<!-- Main Title With Wave GIF -->
-<h1 align="center" style="margin-top: 10px; margin-bottom: 0;">
-  Hello, I'm Rafael Martínez Quiles
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
-</h1>
-
-<!-- Typing Animation -->
-<p align="center" style="margin-top: 5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=200&center=true&vCenter=true&width=550&height=100&lines=Software+%26+AI+Engineer;Computer+Vision+Specialist;Real-Time+ML+Systems+Builder;ML+Decision+Engines+%7C+Explainability;Data+Platforms+on+AWS+%7C+GCP+%7C+Azure;Always+Learning%2C+Always+Building">
-</p>
-
-<!-- Haiku Banner -->
 <p align="center">
-  <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true">
+  <img src="assets/hero.svg" width="1100" alt="Rafael Martínez Quiles — Product engineer. Applied AI. Building at Finosu in New York." />
 </p>
-
----
-
-<h3 align="center">About me</h3>
 
 <p align="center">
-  I build real-time ML and computer vision systems, from credit decision engines to production-grade data platforms.
+  <a href="https://www.linkedin.com/in/rafael-martinez-quiles/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:rafa.martinezquiles@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://orcid.org/0009-0007-2298-4417">Research</a> &nbsp; / &nbsp;
+  <a href="https://www.finosu.com/">Finosu</a>
 </p>
 
-<table align="center">
-  <tr>
-    <th>Focus</th>
-    <th>What I Did</th>
-    <th>Impact</th>
-  </tr>
-  <tr>
-    <td><strong>ML Decision Engines</strong></td>
-    <td>Designed and deployed credit risk pipelines with explainability (SHAP, scorecards).</td>
-    <td><strong>Reduced loan decision times</strong> from ~90 days to <strong>&lt; 5 minutes</strong>.</td>
-  </tr>
-  <tr>
-    <td><strong>Computer Vision</strong></td>
-    <td>Built YOLO-based systems (v8/v9), OCR and tracking for real-time applications.</td>
-    <td>Reached <strong>≈95% accuracy</strong> and improved latency by <strong>20%+</strong> in production.</td>
-  </tr>
-  <tr>
-    <td><strong>Innovation & Hackathons</strong></td>
-    <td>Competed on applied AI solutions and rapid prototyping.</td>
-    <td><strong>2nd place</strong> in a <strong>Google hackathon</strong>.</td>
-  </tr>
-  <tr>
-    <td><strong>Data Platforms</strong></td>
-    <td>Designed data stacks with Python, SQL, dbt and Airflow on cloud.</td>
-    <td>Delivered reliable pipelines on <strong>AWS, GCP & Azure</strong>.</td>
-  </tr>
+### Software people use. Intelligence that does something.
+
+I'm **Rafael**, a **Product Engineer at [Finosu (YC S24)](https://www.finosu.com/)**, based in **New York**. I build across software and applied AI, with projects spanning conversational agents, computer vision, knowledge retrieval, and data tooling.
+
+I like the whole problem: how a system thinks, how it works, and how it feels to the person using it.
+
+### From research to company-building
+
+| Chapter | What I build |
+| :--- | :--- |
+| **Finosu · New York**<br />Product Engineer · First full-time employee<br /><sub>2026–present</sub> | Lead engineering for loan origination: multi-agent AI orchestration, borrower experiences, and enterprise integrations. |
+| **Agxes · San Francisco**<br />Founding Engineer<br /><sub>2025–2026</sub> | Built AI credit decisioning and data pipelines. Helped cut time-to-decision from approximately **90 days to under 5 minutes** for pilot lenders. |
+| **UPM · Madrid**<br />Artificial Intelligence Engineer<br /><sub>2023–2024</sub> | Built real-time vision and OCR systems in the GATV lab for the EU NEMO project; co-authored research in **IEEE Transactions on Broadcasting**. |
+
+<sub>Master’s in Business Analytics · Hult International Business School, 2025<br />Bachelor’s in Data Engineering and Systems · Universidad Politécnica de Madrid, 2024<br />Career details and outcomes: <a href="https://www.linkedin.com/in/rafael-martinez-quiles/">LinkedIn</a></sub>
+
+<br />
+
+### Selected builds
+
+Six ways I turn ideas into working systems. Explore the code, architecture, and setup in each repository.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rafamartinezquiles/karumi"><img src="assets/voice.svg" width="440" alt="Karumi — conversational AI and live software demos" /></a>
+<br />
+<strong><a href="https://github.com/rafamartinezquiles/karumi">Karumi ↗</a></strong><br />
+A conversational demo agent combining voice interaction with browser automation.<br />
+<sub>Python · Pipecat · ElevenLabs · OpenAI</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rafamartinezquiles/football-players-tracking"><img src="assets/vision.svg" width="440" alt="Football tracking — computer vision and tactical pitch mapping" /></a>
+<br />
+<strong><a href="https://github.com/rafamartinezquiles/football-players-tracking">Football Players Tracking ↗</a></strong><br />
+Detect and track players and the ball, then project the action onto a tactical pitch.<br />
+<sub>OpenCV · Supervision · Transformers · Homography</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rafamartinezquiles/full-stack-multimodal"><img src="assets/graph.svg" width="440" alt="Knowledge graph and retrieval-augmented generation" /></a>
+<br />
+<strong><a href="https://github.com/rafamartinezquiles/full-stack-multimodal">Knowledge Graph &amp; RAG ↗</a></strong><br />
+Turn unstructured documents into connected entities and searchable knowledge.<br />
+<sub>LangChain · Neo4j · OpenAI · Python</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rafamartinezquiles/yolov8-bib-recognition"><img src="assets/research.svg" width="440" alt="YOLOv8 race bib recognition — published computer vision research" /></a>
+<br />
+<strong><a href="https://github.com/rafamartinezquiles/yolov8-bib-recognition">Race Bib Recognition ↗</a></strong><br />
+Detect race bib numbers in natural scenes; explore the research behind the IEEE publication.<br />
+<sub>YOLOv8 · PyTorch · OpenCV · CUDA</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rafamartinezquiles/real-time-translation"><img src="assets/offline.svg" width="440" alt="Offline OCR and neural translation" /></a>
+<br />
+<strong><a href="https://github.com/rafamartinezquiles/real-time-translation">Offline OCR &amp; Translation ↗</a></strong><br />
+Extract text from images and PDFs and translate it locally, with a full-stack interface.<br />
+<sub>Tesseract · Argos Translate · FastAPI · React</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/rafamartinezquiles/satellite-timelapse"><img src="assets/earth.svg" width="440" alt="Satellite time-lapse and vegetation analytics" /></a>
+<br />
+<strong><a href="https://github.com/rafamartinezquiles/satellite-timelapse">Satellite Time-Lapse ↗</a></strong><br />
+Explore Sentinel-2 imagery through time-lapse videos and vegetation-index analytics.<br />
+<sub>Planetary Computer · Xarray · NumPy · Streamlit</sub>
+</td>
+</tr>
 </table>
 
----
+**More experiments:** [automated data analysis](https://github.com/rafamartinezquiles/auto-data-agent) · [explainable vision](https://github.com/rafamartinezquiles/yolov11-explainable-ai) · [generative interiors](https://github.com/rafamartinezquiles/home-make-over) · [gesture-controlled games](https://github.com/rafamartinezquiles/ninja-fruit-game)
 
-<h3 align="center">Tech I Work With</h3>
+<br />
+
+### Research meets the real world
+
+**IEEE Transactions on Broadcasting · 2024**<br />
+[Performance Evaluation of YOLOv8-Based Bib Number Detection in Media Streaming Race](https://doi.org/10.1109/TBC.2024.3414656)<br />
+Co-authored research evaluating bib detection across models, datasets, and computing hardware. [Publication details at UPM ↗](https://iptc.upm.es/publications/performance-wvaluation-of-yolov8-based-bib-number-detection-in-media-streaming-ace/)
+
+**AI Hack Night at Google · 2024**<br />
+Second place in the demo challenge with an AI detective game combining data integration, semantic search, and knowledge graphs.
+
+**n-aible · 2024–2025**<br />
+Co-founded the AI society and served as president. Helped organize a 400-attendee AI for Good hackathon, build partnerships, and grow the community.
+
+<br />
+
+### My working toolkit
+
+| Layer | Tools |
+| :--- | :--- |
+| **Product & APIs** | Python, TypeScript, React, FastAPI |
+| **Models & perception** | PyTorch, TensorFlow, OpenCV, YOLO, MediaPipe |
+| **Agents & knowledge** | Pipecat, LangChain, Neo4j, OpenAI |
+| **Data & infrastructure** | SQL, PostgreSQL, Docker, AWS, GCP, Azure |
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <strong>Have something worth building?</strong><br />
+  <a href="mailto:rafa.martinezquiles@gmail.com">Let's talk ↗</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/rafael-martinez-quiles/">Follow the journey on LinkedIn</a>
 </p>
-
----
-
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-martinez-quiles">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:rafa.martinezquiles@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/rafamq_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamartinezquiles&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
-        height="170" alt="github stats"/>
-    </td>
-    <td>
-      <img
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafamartinezquiles&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook"
-        height="170" alt="top langs"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Profile Stats (Views, Followers) AT THE END -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafamartinezquiles" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/rafamartinezquiles?style=social" />
-</p>
-
-<!-- STATS: 2026-11-01T04:45:27Z -->
