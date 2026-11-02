@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-martinez-quiles/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:rafa.martinezquiles@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://orcid.org/0009-0007-2298-4417">Research</a> &nbsp; / &nbsp;
   <a href="https://www.finosu.com/">Finosu</a>
 </p>
 
